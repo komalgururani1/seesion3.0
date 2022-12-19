@@ -1,0 +1,32 @@
+
+   
+
+
+
+.container{
+    width: 1400px;
+    margin: auto;
+}
+.box1{
+    width: 25%;
+    margin: 30px;
+
+}
+
+.box1 .box_1{
+    text-align: center;
+}
+.box_1 img{
+    width: 100%;
+    margin: auto;
+}
+.row{
+    margin: -78px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+section{
+    margin-left: 35%;
+    
+}
